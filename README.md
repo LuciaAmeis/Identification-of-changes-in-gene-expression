@@ -22,7 +22,7 @@ The case study data set is publicly available at the SRA database with reference
 The pre-processing was done using Salmon and tximeta.
 
 Here, only the code is provided. In order to run the code, the data has to be preprocessed first.
-For intermediate results and the preprocessed data see: TBA
+For intermediate results and the preprocessed data see: https://zenodo.org/records/16274997
 
 In the .R file 'Guided_Application.R', code is prepared to help researchers apply the method to their
 own data.
